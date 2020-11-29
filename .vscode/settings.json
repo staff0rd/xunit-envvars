@@ -1,0 +1,7 @@
+{
+    "csharp.unitTestDebuggingOptions": {
+        "env": {
+            "MyEnvVar": "Hello",
+        }
+    }
+}
